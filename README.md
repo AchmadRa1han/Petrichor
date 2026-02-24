@@ -10,5 +10,6 @@ Petrichor adalah sebuah aplikasi web yang dapat menghasilkan *playlist* Spotify 
 ## 🛠️ Teknologi yang Digunakan
 * **Backend:** PHP & CodeIgniter
 * **Frontend:** Tailwind CSS
-* **API:** * Spotify Web API
+* **API:**
+  * Spotify Web API
   * Weather API (misal: OpenWeatherMap / WeatherAPI)
